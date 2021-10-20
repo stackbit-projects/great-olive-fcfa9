@@ -33,9 +33,7 @@ template: page
 ---
 Microsoft for Startupsプログラム(略称: MS4SU) は、革新的な技術やサービスを有するスタートアップ企業のサービス立ち上げから顧客開拓まで徹底伴奏する無料の支援プログラムです。
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
-
-> The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+> Supporting all founders from idea to exit
 
 As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
 
