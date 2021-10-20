@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: MS4SU スタートアップカタログ
     content: >
-      マイクロソフトがグローバルに展開するスタートアップ支援プログラム **Microsoft for Startups**
-      に採択された企業様をまとめたカタログページです。
+      Bridging the gap between corporates and B2B tech entrepreneurs through
+      tech enablement, knowledge sharing and community building
   - section_id: about
     type: section_content
     title: About
