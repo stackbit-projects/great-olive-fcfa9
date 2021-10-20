@@ -1,7 +1,7 @@
 ---
 title: About Microsoft for Startups
 subtitle: This is a short page about Microsoft for Startups
-img_path: images/header.png
+img_path: images/header-afdfc9f6.png
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: About Me
