@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: MS4SU スタートアップカタログ
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      マイクロソフトがグローバルに展開するスタートアップ支援プログラム **Microsoft for Startups**
+      に採択された企業様をまとめたカタログページです。
   - section_id: about
     type: section_content
     title: About
