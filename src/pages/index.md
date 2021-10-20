@@ -12,7 +12,7 @@ sections:
     type: section_content
     title: About
     content: >
-      マイクロソフトがグローバルに展開するスタートアップ支援プログラム **Microsoft for Startups**
+      マイクロソフトがグローバルに展開するスタートアップ支援プログラム **Microsoft for Startups (MS4SU)**
       に採択された企業様をまとめたカタログページです。お客様やお取り組みを一覧で確認することができます。お引き合わせやご紹介依頼は下記フォームよりご連絡ください！
     actions:
       - label: Contact Me
